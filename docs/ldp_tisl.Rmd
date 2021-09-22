@@ -3,19 +3,24 @@ title: "Transparency in Scientific Literature"
 author: "Garland Xie"
 date: "22/09/2021"
 output: pdf_document
+bibliography: references.bib
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Ten questions to promote transparent reporting of methods and results 
+## Part 1. The article
 
-Q1. Were all sample sizes fully reported, including exact values for all subsets of data and for all statistical analyses?  
+[@norton2019]
 
-Q2. Are the methods reported in sufficient detail to allow another researcher to gather the same data and run the identical analyses? 
+## Ten questions to promote transparent reporting of methods and results
 
-Q3a. Are statistical results for each test reported in sufficient detail? 
+Q1. Were all sample sizes fully reported, including exact values for all subsets of data and for all statistical analyses?
+
+Q2. Are the methods reported in sufficient detail to allow another researcher to gather the same data and run the identical analyses?
+
+Q3a. Are statistical results for each test reported in sufficient detail?
 
 Q3b. Are results from all variables and from all models reported?
 
@@ -23,13 +28,14 @@ Q4. Were observers kept unaware of the experimental treatment imposed on the sam
 
 Q5. Did the authors explain how sample size was decided, or when an experiment with pre-set sample sizes was terminated?
 
-Q6. Did the authors develop their analysis plan, including choices of variables, without looking at the data, for instance prior to gathering data or with a dummy data set? 
+Q6. Did the authors develop their analysis plan, including choices of variables, without looking at the data, for instance prior to gathering data or with a dummy data set?
 
-Q7. How suitable do you find the research methods without considering the outcome? 
+Q7. How suitable do you find the research methods without considering the outcome?
 
-Q8. Are the sample sizes large enough to justify the authors’ conclusions? 
+Q8. Are the sample sizes large enough to justify the authors' conclusions?
 
-Q9. What does the size of the estimated effect suggest about its biological or practical importance, and what does uncertainty around that effect estimate suggest about the estimate’s precision? 
+Q9. What does the size of the estimated effect suggest about its biological or practical importance, and what does uncertainty around that effect estimate suggest about the estimate's precision?
 
 Q10. How unexpected would you judge these results to be in light of prior empirically derived understanding?
 
+# References
