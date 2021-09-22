@@ -14,21 +14,35 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [@norton2019]
 
-## Part 2. The checklist 
+# The checklist
 
 The journal of this chosen article does not any form of checklist with respect to transparency and reproducibility.
 
 In that case, I will evaluate the article based on a previous checklist [@parker2018].
 
+## Questions to promote transparent reporting of methods and results 
+
 Q1. Were all sample sizes fully reported, including exact values for all subsets of data and for all statistical analyses?
+
+A1. No, it's unclear what the exact sample sizes were for subsets of data.
 
 Q2. Are the methods reported in sufficient detail to allow another researcher to gather the same data and run the identical analyses?
 
+Q2. Yes.
+
 Q3a. Are statistical results for each test reported in sufficient detail?
+
+A3a: Yes.
 
 Q3b. Are results from all variables and from all models reported?
 
+A3b: Yes.
+
 Q4. Were observers kept unaware of the experimental treatment imposed on the samples when recording observations or measurements so as to minimize unconscious bias?
+
+A4:
+
+## Questions to check biases of reviewers and authors 
 
 Q5. Did the authors explain how sample size was decided, or when an experiment with pre-set sample sizes was terminated?
 
