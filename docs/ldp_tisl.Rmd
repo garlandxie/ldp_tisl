@@ -14,7 +14,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [@norton2019]
 
-## Ten questions to promote transparent reporting of methods and results
+## Part 2. The checklist 
+
+The journal of this chosen article does not any form of checklist with respect to transparency and reproducibility.
+
+In that case, I will evaluate the article based on a previous checklist [@parker2018].
 
 Q1. Were all sample sizes fully reported, including exact values for all subsets of data and for all statistical analyses?
 
