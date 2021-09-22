@@ -40,20 +40,32 @@ A3b: Yes.
 
 Q4. Were observers kept unaware of the experimental treatment imposed on the samples when recording observations or measurements so as to minimize unconscious bias?
 
-A4:
+A4: Yes.
 
 ## Questions to check biases of reviewers and authors 
 
 Q5. Did the authors explain how sample size was decided, or when an experiment with pre-set sample sizes was terminated?
 
+A5: Yes.
+
 Q6. Did the authors develop their analysis plan, including choices of variables, without looking at the data, for instance prior to gathering data or with a dummy data set?
+
+A6. No, the authors did not include a published pre-registered report associated with this article.
 
 Q7. How suitable do you find the research methods without considering the outcome?
 
+A7. The methods are suitable, independent from the results, as the authors conducted tests to determine the method's effectiveness (e.g., testing for multivariate homogeneity of variance for ordination techniques).
+
 Q8. Are the sample sizes large enough to justify the authors' conclusions?
+
+A8. Yes.
 
 Q9. What does the size of the estimated effect suggest about its biological or practical importance, and what does uncertainty around that effect estimate suggest about the estimate's precision?
 
+A9.
+
 Q10. How unexpected would you judge these results to be in light of prior empirically derived understanding?
+
+A10:
 
 # References
