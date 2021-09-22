@@ -1,0 +1,13 @@
+---
+title: "Transparency in Scientific Literature"
+author: "Garland Xie"
+date: "22/09/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Checklist
+
