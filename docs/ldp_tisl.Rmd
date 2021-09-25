@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Part 1. The article
 
-[@norton2019]
+Urban meadows can represent a viable alternative to heavily-mowed grasslands as their biodiversity (i.e., many forb and graminoid species) have potential to support multiple ecosystem services (e.g., pollination services, aesthetic value). In two cities located around Southern England, the the authors of this experimentally manipulated nine treatments across two axes of variation (species richness and plant height) to determine its effect on invertebrate and soil microbial communities [@norton2019]. Overall, they found that both high plant height and high species richness for vegetative meadow communities strongly affected multiple facets of biodiversity (i.e., community composition, richness, and abundance) for invertebrates and soil microbes. These findings provide support that a mosaic of varying meadow types can replace mow-amenity grasslands if local authority partners and city residents wish to maximize the benefits of urban meadows.
 
 # The checklist
 
@@ -20,7 +20,7 @@ The journal of this chosen article does not any form of checklist with respect t
 
 In that case, I will evaluate the article based on a previous checklist [@parker2018].
 
-## Questions to promote transparent reporting of methods and results 
+## Questions to promote transparent reporting of methods and results
 
 Q1. Were all sample sizes fully reported, including exact values for all subsets of data and for all statistical analyses?
 
@@ -42,7 +42,7 @@ Q4. Were observers kept unaware of the experimental treatment imposed on the sam
 
 A4: Yes.
 
-## Questions to check biases of reviewers and authors 
+## Questions to check biases of reviewers and authors
 
 Q5. Did the authors explain how sample size was decided, or when an experiment with pre-set sample sizes was terminated?
 
@@ -62,10 +62,10 @@ A8. Yes.
 
 Q9. What does the size of the estimated effect suggest about its biological or practical importance, and what does uncertainty around that effect estimate suggest about the estimate's precision?
 
-A9.
+A9. The size of the estimated effects from the linear mixed-effects models suggest that high plant height and high species richness of the vegetative meadow communities increases invertebrate richness and biomass two-fold compared to unmanipulated controls. The uncertainty around these effect sizes suggests the amount of variation in raw data for the given response variable.
 
 Q10. How unexpected would you judge these results to be in light of prior empirically derived understanding?
 
-A10:
+A10: I would not find the results to be unexpected since the authors supported them with previously published findings and theory.
 
 # References
